@@ -5,6 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+/**
+ * 이것이 코딩테스트다 : Greedy
+ * 이론 : 큰 수의 법칙
+ * 1 : 오답
+ * */
 public class LawOfLargeNumbers {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
