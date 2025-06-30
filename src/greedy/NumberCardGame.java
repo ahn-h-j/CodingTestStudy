@@ -5,6 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+/**
+ * 이것이 코딩테스트다 : Greedy
+ * 이론 : 숫자카드게임
+ * 1 : 정답
+ * */
 public class NumberCardGame {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
