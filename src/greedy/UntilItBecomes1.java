@@ -4,6 +4,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+
+/**
+ * 이것이 코딩테스트다 : Greedy
+ * 이론 : 1이 될때까지
+ * 1 : 정답(비효율)
+ * */
 public class UntilItBecomes1 {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
